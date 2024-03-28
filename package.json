@@ -1,6 +1,6 @@
 {
   "name": "ks-cli-atm",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "\"This CLI-ATM\"",
   "main": "main.js",
   "type": "module",

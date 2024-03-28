@@ -1,4 +1,4 @@
-#! usr/bin/env node
+#! /usr/bin/env node
 
 import inquirer from "inquirer";
 //current balance
@@ -13,7 +13,7 @@ type :"number"
 
 }]);
 if (pinAns.pin === myPin){
-    console.log("Correct pin code!");
+    console.log("Correct pin code!!");
     }else{
         console.log("Incorrect pin code");
         
